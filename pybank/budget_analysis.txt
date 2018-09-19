@@ -1,0 +1,8 @@
+
+Financial Analysis
+----------------------------
+Total Months: 86
+Total Profitloss: $38382578
+Average ProfitLoss Change: $7803.476744186047
+Greatest Increase in ProfitLoss: Feb-12 ($1926159)
+Greatest Decrease in ProfitLoss: Sep-13 ($-2196167)
